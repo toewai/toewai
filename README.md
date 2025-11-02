@@ -1,4 +1,5 @@
 ## Hi there 👋
+(https://raw.githubusercontent.com/toewai/toewai/refs/heads/main/coding.gif)
 
 <!--
 **toewai/toewai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
